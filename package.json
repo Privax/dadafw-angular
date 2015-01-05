@@ -1,0 +1,28 @@
+{
+	"name"            : "dadafw-angular",
+	"version"         : "0.0.1",
+	"description"     : "Angular integration for the general-purpose SCSS framework",
+	"author"          : "Pascal Scheepers <pascal@splotch.es>",
+	"repository"      : {
+		"type" : "git",
+		"url"  : "https://github.com/pascal-privax/dadafw-angular"
+	},
+	"bugs"            : {
+		"url" : "https://github.com/pascal-privax/dadafw-angular/issues"
+	},
+	"keywords"        : [
+		"SCSS",
+		"SASS",
+		"CSS",
+		"AngularJS",
+		"Framework",
+		"Grid system"
+	],
+	"dependencies"    : {
+		"dadafw" : "0.0.1"
+	},
+	"license"         : "MIT",
+	"devDependencies" : {
+		"grunt" : "^0.4.5"
+	}
+}
