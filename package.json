@@ -20,7 +20,7 @@
 	],
 	"dependencies"    : {
 		"angular" : "^1.3.7",
-		"dadafw"  : "^0.0.3"
+		"dadafw"  : "~0.0"
 	},
 	"license"         : "MIT",
 	"devDependencies" : {
