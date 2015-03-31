@@ -1,6 +1,6 @@
 {
 	"name"            : "dadafw-angular",
-	"version"         : "0.0.4",
+	"version"         : "0.0.5",
 	"description"     : "Angular integration for the general-purpose SCSS framework",
 	"author"          : "Pascal Scheepers <pascal@splotch.es>",
 	"repository"      : {
